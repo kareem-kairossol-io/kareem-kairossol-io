@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://kairossol.io/assets/imgs/kareem.png" width="160px" style="border-radius: 20px;margin-bottom: 16px"/>
-
 <a href="https://kareem.kairossol.io/">
   <img src="https://img.shields.io/badge/PORTFOLIO-kareem.kairossol.io-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
