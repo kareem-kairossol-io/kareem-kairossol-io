@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=Software+Engineer+building+scalable+systems+since+2021;Laravel+%7C+Redis+%7C+Spring+Boot+%7C+System+Design;400%2C000%2B+registrations+handled+in+one+week" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=Software+Engineer+building+scalable+systems+since+2021;Backend+%7C+Frontend+%7C+System+Design;400%2C000%2B+registrations+handled+in+one+week" alt="Typing SVG" />
 
 </div>
 
@@ -34,19 +34,19 @@ Backend and frontend development, API design, database design, distributed syste
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,java,spring,react,js,html,css,cs,dotnet,mysql,redis,docker,linux,nginx,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,js,html,css,mysql,redis,docker,linux,nginx,git&theme=dark" />
 
 <br/><br/>
 
-**Backend** — `PHP` `Laravel` `Laravel Octane` `Reverb` `FrankenPHP` `Java` `Spring Boot` `REST APIs` `Modular Monolith` `Multi-Tenant SaaS` `Auth & Authorization` `Queues` `Background Jobs` `WebSockets`
+**Backend** — `Java` `Spring Boot` `PHP` `Laravel` `REST APIs` `Modular Monolith` `Multi-Tenant SaaS` `Auth & Authorization` `Queues` `Background Jobs` `WebSockets`
 
-**Frontend, Mobile & Desktop** — `React` `React Native` `JavaScript` `HTML` `CSS` `Responsive Design` `C#` `.NET` `WPF (MVVM)` `WinForms`
+**Frontend & Mobile** — `React` `React Native` `JavaScript` `HTML` `CSS` `Responsive Design`
 
-**Architecture & Performance** — `System Design` `High-Concurrency` `Distributed Systems` `Offline-First` `IoT Communication` `API Optimization` `Caching` `Async Processing`
+**Architecture & Performance** — `System Design` `High-Concurrency` `Distributed Systems` `Offline-First` `API Optimization` `Caching` `Async Processing`
 
 **Databases & Infrastructure** — `MySQL` `SQL Server` `Redis` `Docker` `Linux` `Nginx` `Git`
 
-**Integrations** — `Fawry POS SDK` `Google Maps API` `Google Calendar API` `Third-Party APIs` `Geofencing` `KYC`
+**Integrations** — `Fawry POS SDK` `Google Maps API` `Google Calendar API` `Third-Party APIs`
 
 </div>
 
